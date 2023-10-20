@@ -31,11 +31,4 @@ let x=fetch("www.google.com");
 console.log("we have called the promise",x);
 let y=fetchData('www.amazon.com');
 
-
-// Description
-// Hello Humans, I am Sanket Singh, working as a Software Engineer @ Google. I am an Ex - Software Engineer @ LinkedIn and 
-// Ex - Software Engineer @ Interviewbit.
-//  I am a former Google Summer Of Code Student Developer under Berkman Klein Centre @ Harvard University. 
-// My expertise and field of interest lie in Tech, Engineering, Software Development, Coding, etc.
-// I will be posting things around tech and my travel vlogs on this channel. 
 //https://sv-dev.netlify.app/projects
